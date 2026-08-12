@@ -21,3 +21,4 @@ The fundamental difference between hardware and software comes down to physical 
 RAM VS SSD
 RAM:Temporary, ultra-fast memory that completely erases the instant power is turned off
 SSD:Permanent, long-term storage that safely retains your data even without power
+[my process flowchart](flow chart)
